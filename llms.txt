@@ -1,0 +1,10 @@
+# The Grant Finder
+> Real-time nonprofit grant database for organizations across the USA.
+
+## About
+The Grant Finder provides a searchable database of grants available to nonprofit organizations throughout the United States. Our platform helps nonprofits discover funding opportunities, track deadlines, and access application resources to support their missions.
+
+## Key Pages
+- Home: https://thegrantfinder.com/
+- Grant Database: https://thegrantfinder.com/grants
+- Blog: https://thegrantfinder.com/blog
